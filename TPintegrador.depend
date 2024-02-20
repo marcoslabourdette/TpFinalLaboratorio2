@@ -1,0 +1,534 @@
+# depslib dependency file v1.0
+1698447513 source:c:\users\valentín\desktop\tpintegrador\main.cpp
+	<iostream>
+	"Menu.h"
+
+1698871531 c:\users\valentín\desktop\tpintegrador\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1698443696 c:\users\valentín\desktop\tpintegrador\graficos.h
+	<iostream>
+
+1698856281 source:c:\users\valentín\desktop\tpintegrador\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+
+1698855569 c:\users\valentín\desktop\tpintegrador\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1698465179 source:c:\users\valentín\desktop\tpintegrador\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1698464935 c:\users\valentín\desktop\tpintegrador\include\clsfecha.h
+	<iostream>
+
+1698855297 source:c:\users\valentín\desktop\tpintegrador\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1698854760 c:\users\valentín\desktop\tpintegrador\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+
+1698871676 c:\users\valentín\desktop\tpintegrador\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+
+1698856281 source:c:\users\valentín\desktop\tpintegrador\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"string.h"
+
+1698855799 c:\users\valentín\desktop\tpintegrador\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1698856281 source:c:\users\valentín\desktop\tpintegrador\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	<stdio.h>
+
+1698856016 c:\users\valentín\desktop\tpintegrador\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1698593100 c:\users\valentín\desktop\tpintegrador\archivos.h
+
+1698856925 source:c:\users\valentín\desktop\tpintegrador\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1698856124 c:\users\valentín\desktop\tpintegrador\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1698447514 source:c:\users\marco\desktop\tpintegrador\main.cpp
+	<iostream>
+	"Menu.h"
+
+1698871532 c:\users\marco\desktop\tpintegrador\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1698443698 c:\users\marco\desktop\tpintegrador\graficos.h
+	<iostream>
+
+1698961435 c:\users\marco\desktop\tpintegrador\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+
+1698854762 c:\users\marco\desktop\tpintegrador\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+
+1698464936 c:\users\marco\desktop\tpintegrador\include\clsfecha.h
+	<iostream>
+
+1698856126 c:\users\marco\desktop\tpintegrador\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1698856018 c:\users\marco\desktop\tpintegrador\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1698855570 c:\users\marco\desktop\tpintegrador\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1698855800 c:\users\marco\desktop\tpintegrador\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1698593102 c:\users\marco\desktop\tpintegrador\archivos.h
+
+1698856282 source:c:\users\marco\desktop\tpintegrador\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	<stdio.h>
+
+1698856926 source:c:\users\marco\desktop\tpintegrador\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1698465180 source:c:\users\marco\desktop\tpintegrador\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1698856282 source:c:\users\marco\desktop\tpintegrador\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+
+1698855298 source:c:\users\marco\desktop\tpintegrador\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1698856282 source:c:\users\marco\desktop\tpintegrador\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"string.h"
+
+1698447514 source:c:\users\marco\desktop\tpintegrador-version 2\main.cpp
+	<iostream>
+	"Menu.h"
+
+1699025804 c:\users\marco\desktop\tpintegrador-version 2\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1698443698 c:\users\marco\desktop\tpintegrador-version 2\graficos.h
+	<iostream>
+
+1699032286 c:\users\marco\desktop\tpintegrador-version 2\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+
+1698854762 c:\users\marco\desktop\tpintegrador-version 2\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+
+1699020141 c:\users\marco\desktop\tpintegrador-version 2\include\clsfecha.h
+	<iostream>
+
+1698856126 c:\users\marco\desktop\tpintegrador-version 2\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1698856018 c:\users\marco\desktop\tpintegrador-version 2\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1698855570 c:\users\marco\desktop\tpintegrador-version 2\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1698855800 c:\users\marco\desktop\tpintegrador-version 2\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1698593102 c:\users\marco\desktop\tpintegrador-version 2\archivos.h
+
+1698856282 source:c:\users\marco\desktop\tpintegrador-version 2\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	<stdio.h>
+
+1698856926 source:c:\users\marco\desktop\tpintegrador-version 2\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1699020243 source:c:\users\marco\desktop\tpintegrador-version 2\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1698856282 source:c:\users\marco\desktop\tpintegrador-version 2\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+
+1698855298 source:c:\users\marco\desktop\tpintegrador-version 2\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1698856282 source:c:\users\marco\desktop\tpintegrador-version 2\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"string.h"
+
+1699219783 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\main.cpp
+	<iostream>
+	"Menu.h"
+
+1699244398 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1699219783 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\graficos.h
+	<iostream>
+
+1699244398 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+
+1699219784 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219784 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clsfecha.h
+	<iostream>
+
+1699219784 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1699219783 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219784 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219784 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219783 c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\archivos.h
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	<stdio.h>
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1699219784 source:c:\users\valentín\desktop\prgramación ii\tpintegrador-version 3\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"string.h"
+
+1699219783 source:c:\users\valentín\desktop\tpintegrador-version 3\main.cpp
+	<iostream>
+	"Menu.h"
+
+1699653432 c:\users\valentín\desktop\tpintegrador-version 3\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1699219783 c:\users\valentín\desktop\tpintegrador-version 3\graficos.h
+	<iostream>
+
+1699656861 c:\users\valentín\desktop\tpintegrador-version 3\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+	"Graficos.h"
+
+1699509656 c:\users\valentín\desktop\tpintegrador-version 3\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+	"windows.h"
+
+1699219784 c:\users\valentín\desktop\tpintegrador-version 3\include\clsfecha.h
+	<iostream>
+
+1699509656 c:\users\valentín\desktop\tpintegrador-version 3\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1699298361 c:\users\valentín\desktop\tpintegrador-version 3\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1699464803 c:\users\valentín\desktop\tpintegrador-version 3\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1699468227 c:\users\valentín\desktop\tpintegrador-version 3\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219783 c:\users\valentín\desktop\tpintegrador-version 3\archivos.h
+
+1699651424 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	"windows.h"
+	<stdio.h>
+
+1699649531 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1699219784 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1699646615 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+	"windows.h"
+
+1699649531 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1699655807 source:c:\users\valentín\desktop\tpintegrador-version 3\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"windows.h"
+	"string.h"
+
+1699219783 source:c:\users\valentín\desktop\tpintegrador-version 4\main.cpp
+	<iostream>
+	"Menu.h"
+
+1699657536 c:\users\valentín\desktop\tpintegrador-version 4\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1699219783 c:\users\valentín\desktop\tpintegrador-version 4\graficos.h
+	<iostream>
+
+1699657536 c:\users\valentín\desktop\tpintegrador-version 4\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+	"Graficos.h"
+
+1699509656 c:\users\valentín\desktop\tpintegrador-version 4\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+	"windows.h"
+
+1699219784 c:\users\valentín\desktop\tpintegrador-version 4\include\clsfecha.h
+	<iostream>
+
+1699509656 c:\users\valentín\desktop\tpintegrador-version 4\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1699298361 c:\users\valentín\desktop\tpintegrador-version 4\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1699464803 c:\users\valentín\desktop\tpintegrador-version 4\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1699468227 c:\users\valentín\desktop\tpintegrador-version 4\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219783 c:\users\valentín\desktop\tpintegrador-version 4\archivos.h
+
+1699651424 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	"windows.h"
+	<stdio.h>
+
+1699649531 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1699219784 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1699646615 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+	"windows.h"
+
+1699649531 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1699655807 source:c:\users\valentín\desktop\tpintegrador-version 4\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"windows.h"
+	"string.h"
+
+1699219784 source:c:\users\marco\desktop\tpintegrador-version 4\main.cpp
+	<iostream>
+	"Menu.h"
+
+1699910816 c:\users\marco\desktop\tpintegrador-version 4\menu.h
+	<windows.h>
+	<iostream>
+	"graficos.h"
+	"Funciones.h"
+
+1699219784 c:\users\marco\desktop\tpintegrador-version 4\graficos.h
+	<iostream>
+
+1699911067 c:\users\marco\desktop\tpintegrador-version 4\funciones.h
+	"ClsPersona.h"
+	"ClsCliente.h"
+	"ClsCelular.h"
+	"ClsMarca.h"
+	"ClsVenta.h"
+	<stdio.h>
+	<string.h>
+	"Archivos.h"
+	"Graficos.h"
+
+1699509658 c:\users\marco\desktop\tpintegrador-version 4\include\clspersona.h
+	<iostream>
+	"ClsFecha.h"
+	"windows.h"
+
+1699219786 c:\users\marco\desktop\tpintegrador-version 4\include\clsfecha.h
+	<iostream>
+
+1699509658 c:\users\marco\desktop\tpintegrador-version 4\include\clscliente.h
+	<iostream>
+	"ClsPersona.h"
+
+1699298362 c:\users\marco\desktop\tpintegrador-version 4\include\clscelular.h
+	<iostream>
+	"ClsFecha.h"
+
+1699464804 c:\users\marco\desktop\tpintegrador-version 4\include\clsmarca.h
+	<iostream>
+	"ClsFecha.h"
+
+1699468228 c:\users\marco\desktop\tpintegrador-version 4\include\clsventa.h
+	<iostream>
+	"ClsFecha.h"
+
+1699219784 c:\users\marco\desktop\tpintegrador-version 4\archivos.h
+
+1699651426 source:c:\users\marco\desktop\tpintegrador-version 4\src\clscelular.cpp
+	"ClsCelular.h"
+	"string.h"
+	"windows.h"
+	<stdio.h>
+
+1699649532 source:c:\users\marco\desktop\tpintegrador-version 4\src\clscliente.cpp
+	"ClsCliente.h"
+	"string.h"
+	<iostream>
+
+1699219786 source:c:\users\marco\desktop\tpintegrador-version 4\src\clsfecha.cpp
+	"ClsFecha.h"
+
+1699646616 source:c:\users\marco\desktop\tpintegrador-version 4\src\clsmarca.cpp
+	"ClsMarca.h"
+	"string.h"
+	"windows.h"
+
+1699649532 source:c:\users\marco\desktop\tpintegrador-version 4\src\clspersona.cpp
+	"ClsPersona.h"
+	"string.h"
+
+1699655808 source:c:\users\marco\desktop\tpintegrador-version 4\src\clsventa.cpp
+	"ClsVenta.h"
+	"ClsCelular.h"
+	"windows.h"
+	"string.h"
+
